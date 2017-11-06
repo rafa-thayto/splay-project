@@ -1,0 +1,10 @@
+Gradient navbar idea!
+// Purple
+- #8357A9
+- #531F81
+- #683793
+// Orange
+- #FFC781
+- #FFA432
+- #FFB557
+// Or white transparent navbar
