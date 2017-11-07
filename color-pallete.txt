@@ -1,3 +1,7 @@
+//Fonts
+-Rajdhani
+-Open Sans
+
 Gradient navbar idea!
 // Purple
 - #8357A9
