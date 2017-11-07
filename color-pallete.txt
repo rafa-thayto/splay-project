@@ -8,3 +8,6 @@ Gradient navbar idea!
 - #FFA432
 - #FFB557
 // Or white transparent navbar
+- rgba(255, 255, 255, 0.3)
+- rgba(255, 255, 255, 0.65)
+- rgba(255, 255, 255, 0.5)
