@@ -18,3 +18,15 @@ Gradient navbar idea!
 
 - #FF9734
 - #FCB841
+
+// Purple
+// Escuro
+- #4D3C64
+// Claro
+- #8D27E5
+
+// Orange
+// Claro
+- #FCB841
+// Escuro
+- #E56D1B
