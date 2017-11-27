@@ -1,11 +1,87 @@
 @charset "UTF-8";
 
 /* Rajdhani font import */
-@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:400,600,700');
 
 /* Page reset */
 *, *::after, *::before {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
 }
+
+/* Font sizes */
+h1 {font-size:4rem; text-align: center;}
+h2 {font-size:3.5rem;}
+h3 {font-size:3rem;}
+p {font-size:2rem;}
+
+/* Utils */
+.highlight {
+    font-weight: 600;
+}
+
+body {
+    background: pink;
+}
+
+.logo {
+    width: 100%;
+    background-attachment: fixed;
+}
+
+
+#splay-presentation {
+    width: 100%;
+    height: 100%;
+    padding: 2.5%;
+
+    background-image: linear-gradient(to bottom, #FCB841, #E56D1B);
+}
+
+#splay-presentation p {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    margin:5% 20% 1%;
+}
+
+.container img {
+    width: 100%;
+    box-shadow: 0 0 10px ;
+}
+
+#splay-video-structures {
+    width: 100%;
+    height: 600px;
+    background: #f7f7f7;
+}
+
+#splay-video-structures h1 {
+    color: #662D90;
+}
+
+#splay-differentials {
+    width: 100%;
+    height: 600px;
+    background: #412764;
+}
+
+#splay-differentials h1 {
+    color: #FFB933;
+}
+
+#splay-universe {
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(to top, #FCB841, #E56D1B);
+}
+#splay-universe h1 {
+
+}
+
