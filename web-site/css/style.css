@@ -23,9 +23,13 @@ p {font-size:2rem;}
     font-weight: 600;
 }
 
+header, footer {
+    background-attachment: fixed;
+}
+
 .logo {
     width: 100%;
-    background-attachment: fixed;
+    height: 100%;
 }
 
 
@@ -80,4 +84,3 @@ p {font-size:2rem;}
 #splay-universe h1 {
 
 }
-
