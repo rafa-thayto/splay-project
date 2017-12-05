@@ -10,6 +10,7 @@
     padding: 0;
     font-family: 'Rajdhani', sans-serif;
     color: white;
+    position: relative;
 }
 
 /* Font sizes */
@@ -47,14 +48,6 @@ p {font-size:3rem;}
     height: 100%;
 
     background-image: linear-gradient(to bottom, #FCB841, #E56D1B);
-}
-
-.container {
-    width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5%;
-    margin: 5% auto 2.5% auto
 }
 
 .container img {
