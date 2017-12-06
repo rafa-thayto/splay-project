@@ -1,3 +1,7 @@
-a.carousel-item > img {
+#splay-team a.carousel-item > img {
     border: 5px solid #734893;
+}
+
+#splay-team .carousel-item {
+    font-size: 1.25em;
 }

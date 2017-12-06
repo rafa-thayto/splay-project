@@ -1,4 +1,4 @@
-// Carousel
+// Carousel Team
 $(document).ready(function(){
     $('.carousel').carousel({
         shift:100,
@@ -6,8 +6,13 @@ $(document).ready(function(){
     });
   });
 
-// Scroll Spy
-// $(document).ready(function(){
-//     $('.scrollspy').scrollSpy();
-//   });
-        
+// Slick
+// $('.splay-universe').slick();
+
+$('.splay-universe').slick({
+    dots: true,
+    infinite: true,
+    speed: 300,
+    slidesToShow: 1,
+    adaptiveHeight: true
+});
