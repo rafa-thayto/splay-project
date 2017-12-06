@@ -58,11 +58,13 @@ p {font-size:3rem;}
 
 /* Video Structures */
 #splay-video-structures {
+    display: flex;
+    flex-flow: column;
     width: 100%;
     background: #ffffff;
 }
 
-#splay-video-structures .container {
+.container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -70,8 +72,30 @@ p {font-size:3rem;}
     width: 100%;
 }
 
-#splay-video-structures .container img {
+#splay-video-structures h2 {
+    display: block;
+    background-color: #FABB34;
+    font-size: 24px;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 12px;
+    border-radius: 9999px;
+    z-index: 1;
+}
+
+#splay-video-structures span {
+    width: 2px;
+    height: 80px;
+    margin: -30px auto;
+    background-color: #662D90;
+}
+
+.container img {
     flex-basis: 400px;
+    width: 400px;
+    margin: 10px;
 }
 
 #splay-video-structures h1, #splay-team h1{
@@ -81,7 +105,22 @@ p {font-size:3rem;}
 /* Differentials */
 #splay-differentials {
     width: 100%;
-    background: #412764;
+    background: #321b50;
+}
+
+#splay-differentials .container {
+    margin: 50px auto;
+    width: 100% !important;
+}
+
+#splay-differentials .container img {
+    flex-basis: 300px !important;
+    width: 300px !important;
+    transition: transform .2s;
+}
+
+#splay-differentials .container img:hover {
+    transform: scale(1.1);
 }
 
 #splay-differentials h1 {
@@ -97,4 +136,8 @@ p {font-size:3rem;}
 /* Team */
 #splay-team {
     color: #662D90;
+}
+
+#splay-team .carousel-item {
+    font-size: 1.25em;
 }
