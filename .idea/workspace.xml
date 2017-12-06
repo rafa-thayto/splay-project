@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adbb3539-8ade-4fed-9ba7-ddaff90f5331" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/website/css/style.css" afterPath="$PROJECT_DIR$/website/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/website/css/custom-materizalize.css" afterPath="$PROJECT_DIR$/website/css/custom-materizalize.css" />
+      <change beforePath="$PROJECT_DIR$/website/index.html" afterPath="$PROJECT_DIR$/website/index.html" />
+      <change beforePath="$PROJECT_DIR$/website/slick/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/CONTRIBUTING.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/README.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick.jquery.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/config.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/slick-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/slick.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/website/slick/slick/slick.min.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +41,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+            <state relative-caret-position="495">
+              <caret line="102" column="85" lean-forward="true" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
               <folding>
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -38,11 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="695">
-              <caret line="179" column="19" lean-forward="false" selection-start-line="179" selection-start-column="19" selection-end-line="179" selection-end-column="19" />
+              <caret line="173" column="19" lean-forward="true" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom-materizalize.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/css/custom-materizalize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -83,10 +115,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/website/css/app.jsx.js" />
-        <option value="$PROJECT_DIR$/website/css/custom-materizalize.css" />
-        <option value="$PROJECT_DIR$/website/index.html" />
         <option value="$PROJECT_DIR$/website/js/utils.js" />
+        <option value="$PROJECT_DIR$/website/index.html" />
         <option value="$PROJECT_DIR$/website/css/style.css" />
+        <option value="$PROJECT_DIR$/website/css/custom-materizalize.css" />
       </list>
     </option>
   </component>
@@ -172,13 +204,6 @@
               <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="slick" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="splay-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="splay-project" type="462c0819:PsiDirectoryNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="slick" type="462c0819:PsiDirectoryNode" />
-              <item name="slick" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -236,12 +261,12 @@
       <workItem from="1512564371773" duration="1705000" />
       <workItem from="1512572945648" duration="2543000" />
       <workItem from="1512578411280" duration="56000" />
-      <workItem from="1512578620024" duration="6228000" />
+      <workItem from="1512578620024" duration="7012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28932000" />
+    <option name="totallyTimeSpent" value="29716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -548,14 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/css/custom-materizalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/images/slides/tela-splay7.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -606,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/website/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        <state relative-caret-position="495">
+          <caret line="102" column="85" lean-forward="true" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
           <folding>
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -617,7 +634,15 @@
     <entry file="file://$PROJECT_DIR$/website/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
-          <caret line="179" column="19" lean-forward="false" selection-start-line="179" selection-start-column="19" selection-end-line="179" selection-end-column="19" />
+          <caret line="173" column="19" lean-forward="true" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/css/custom-materizalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>
