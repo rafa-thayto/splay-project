@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adbb3539-8ade-4fed-9ba7-ddaff90f5331" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/website/css/custom-materizalize.css" afterPath="$PROJECT_DIR$/website/css/custom-materizalize.css" />
+      <change beforePath="$PROJECT_DIR$/website/images/svgs/bg-bottom.svg" afterPath="$PROJECT_DIR$/website/images/svgs/bg-bottom.svg" />
+      <change beforePath="$PROJECT_DIR$/website/images/svgs/heart.svg" afterPath="$PROJECT_DIR$/website/images/svgs/heart.svg" />
       <change beforePath="$PROJECT_DIR$/website/index.html" afterPath="$PROJECT_DIR$/website/index.html" />
-      <change beforePath="$PROJECT_DIR$/website/slick/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/CONTRIBUTING.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/ISSUE_TEMPLATE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/Makefile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/README.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/component.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick.jquery.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/ajax-loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/config.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/fonts/slick.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/slick-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/slick.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/website/slick/slick/slick.min.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="102" column="85" lean-forward="true" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
+            <state relative-caret-position="555">
+              <caret line="109" column="40" lean-forward="false" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -70,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom-materizalize.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom-materizalize.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/css/custom-materizalize.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
@@ -261,12 +241,12 @@
       <workItem from="1512564371773" duration="1705000" />
       <workItem from="1512572945648" duration="2543000" />
       <workItem from="1512578411280" duration="56000" />
-      <workItem from="1512578620024" duration="7012000" />
+      <workItem from="1512578620024" duration="8166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29716000" />
+    <option name="totallyTimeSpent" value="30870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -621,16 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="102" column="85" lean-forward="true" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
@@ -644,6 +614,21 @@
         <state relative-caret-position="40">
           <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/images/svgs/bg-bottom.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="109" column="40" lean-forward="false" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

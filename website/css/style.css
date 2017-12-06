@@ -169,6 +169,14 @@ p {font-size:3rem;}
     height: 100%;
 }
 
+/* Footer */
+footer img:nth-child(2) {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 15%;
+}
+
 /* Team */
 #splay-team {
     color: #662D90;
@@ -180,4 +188,8 @@ p {font-size:3rem;}
     p {font-size:2rem !important;;}
 }
 
-
+@media only screen and (max-width: 800px) {
+    footer img:nth-child(2) {
+        width: 20%;
+    }
+}
