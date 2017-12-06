@@ -176,7 +176,7 @@ p {font-size:3rem;}
 
 /* Media Queries */
 @media only screen and (max-width: 650px) {
-    h1 {font-size:3.5rem !important;}
+    h1 {font-size:3rem !important;}
     p {font-size:2rem !important;;}
 }
 
